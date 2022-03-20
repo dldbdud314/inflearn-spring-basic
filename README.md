@@ -12,3 +12,6 @@
 ☑️ 섹션9. 빈 스코프  
 
 ### 05.31 완 
+
+### ⬇️ 내용 정리
+https://bolder-swoop-c66.notion.site/8ecd37925c764ddea729dbeaad2f412c
